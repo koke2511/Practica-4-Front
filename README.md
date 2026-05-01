@@ -1,4 +1,4 @@
-````markdown
+
 # Documentación del proyecto
 
 ## Pasos para la instalación y ejecución del proyecto
